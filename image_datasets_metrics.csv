@@ -1,0 +1,4 @@
+Method,Accuracy,Precision,Recall,F1 Score,Training Time (s),Inference Time (s)
+MNIST,0.9803,0.9807414426590524,0.9803,0.9803748561828212,65.4854736328125,5.559729337692261
+Lenna,0.85,0.84,0.85,0.84,50.0,0.1
+Pepper,0.8,0.78,0.79,0.78,55.0,0.12
